@@ -22,11 +22,11 @@ The project consists of the following key components:
 3. Run the program:
 
 - For Task One:
-   - Locate the `TaskOne.java` file in the `src` folder.
-   - Right-click on the `TaskOne.java` file and select **Run** to execute the program.
+   - Locate the `homeworkExercises.TaskOne.java` file in the `src` folder.
+   - Right-click on the `homeworkExercises.TaskOne.java` file and select **Run** to execute the program.
 
 - For Task Two:
-    - Locate the `TaskTwo.java` file in the `src` folder.
-    - Right-click on the `TaskTwo.java` file and select **Run** to execute the program.
+    - Locate the `homeworkExercises.TaskTwo.java` file in the `src` folder.
+    - Right-click on the `homeworkExercises.TaskTwo.java` file and select **Run** to execute the program.
   
 

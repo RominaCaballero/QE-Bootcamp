@@ -1,4 +1,4 @@
-/* A company, MentorMarkers Corp., wants to keep a record of an employee.
+package homeworkExercises;/* A company, MentorMarkers Corp., wants to keep a record of an employee.
 The record must have the following characteristics and the values should be received by user input:
 First Name
 Last Name

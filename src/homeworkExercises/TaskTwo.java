@@ -1,4 +1,4 @@
-/*Create a program that returns the monthly payment of a lease.
+package homeworkExercises;/*Create a program that returns the monthly payment of a lease.
 The program should accept 4 inputs in the beginning - total leased money, down payment, lease term(in months), and interest rate.
 You can use the following equation
 ((totalLeasedMoney - downPayment) + ((totalLeasedMoney - downPayment) * (interestRate / 100))) / monthsLeaseTerm.
