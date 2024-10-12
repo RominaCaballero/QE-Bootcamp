@@ -9,13 +9,16 @@ public class ArrayDemo {
 
         Random random = new Random();
         int j = 0;
-        for(int i : numbers) {
+
+        for(int i = 0; i<numbers.length; i++) {
             numbers[i] = random.nextInt(1000);
             System.out.println(numbers[i]);
         }
 
-        numbers[0] = 999;
+        System.out.println("---------");
 
-        System.out.println("numbers[0] is " + numbers[0]);
+        for (int number : numbers){
+            System.out.println(number);
+        }
     }
 }
