@@ -1,13 +1,23 @@
 # Java Fundamentals Homework
-This is the first homework of the bootcamp, we must:
+This repo contains all my homework and in class sessions of the introduction of java basics module of the QE-Bootcamp I am taking part in.
 
-The project consists of the following key components:
+### The project has the following structure:
    
 - **`src/` directory:** Contains all the Java source code files.
      
-  - **`Main.java:`** The entry point of the application, where the main method is located.
+  - **`homeworkExercises/` directory:** This directory contains all the homework I have done. Some of it has been done with peer programming among my classmates!
+  - **`inClassExercies/` directory:** This directory contains all the sessions my teacher has done in class in order to explain the topics of the module.
 
 - **`README.md:`** This file provides information about the project structure and instructions for running the program.
+
+## Table of Contents
+- [Homework Exercises](./src/homeworkExercises/)
+- [In Class Exercises](./src/inClassExercises/)
+   - **[Session1](./src/inClassExercises/session1/)**
+   - **[Session2](./src/inClassExercises/session2/)**
+   - **[Session3](./src/inClassExercises/session3/)**
+   - **[Session4](./src/inClassExercises/session4/)**
+   - **[Session5](./src/inClassExercises/session5/)** 
     
 ## Instructions on how to run the program
 1. **Clone the repository:**
@@ -19,14 +29,5 @@ The project consists of the following key components:
 - Open IntelliJ IDEA and select **File > Open**.
 - Navigate to the folder where the repository is cloned and open the project.
 
-3. Run the program:
-
-- For Task One:
-   - Locate the `homeworkExercises.TaskOne.java` file in the `src` folder.
-   - Right-click on the `homeworkExercises.TaskOne.java` file and select **Run** to execute the program.
-
-- For Task Two:
-    - Locate the `homeworkExercises.TaskTwo.java` file in the `src` folder.
-    - Right-click on the `homeworkExercises.TaskTwo.java` file and select **Run** to execute the program.
-  
-
+3. Locate the folder you wanna work with and the select the file.
+4. Select **Run** to execute the program!
