@@ -12,6 +12,9 @@ This repo contains all my homework and in class sessions of the introduction of 
 
 ## Table of Contents
 - [Homework Exercises](./src/homeworkExercises/)
+   - **[Task1](./src/homeworkExercises/TaskOne.java)**
+   - **[Task2](./src/homeworkExercises/TaskTwo.java)**
+   - **[Task4](./src/homeworkExercises/taskFour/)**
 - [In Class Exercises](./src/inClassExercises/)
    - **[Session1](./src/inClassExercises/session1/)**
    - **[Session2](./src/inClassExercises/session2/)**
