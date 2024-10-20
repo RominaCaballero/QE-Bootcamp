@@ -1,4 +1,4 @@
-package homeworkExercises.taskFive.src.Zoo;
+package homeworkExercises.taskFive;
 
 public interface Animal {
     String getSpecie();

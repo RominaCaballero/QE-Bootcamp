@@ -1,4 +1,4 @@
-package homeworkExercises.taskFive.src.Zoo;
+package homeworkExercises.taskFive;
 
 import java.io.*;
 import java.util.ArrayList;
