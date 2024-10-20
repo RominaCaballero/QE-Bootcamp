@@ -1,12 +1,12 @@
-package homeworkExercises.taskFive.src.Zoo;
+package homeworkExercises.taskFive;
 
-public class Caballo implements Animal {
+public class Gato implements Animal {
     private String specie;
     private String breed;
     private String name;
     private int birthYear;
 
-    public Caballo(String specie, String breed, String name, int birthYear){
+    public Gato(String specie, String breed, String name, int birthYear){
         this.specie = specie;
         this.breed = breed;
         this.name = name;
